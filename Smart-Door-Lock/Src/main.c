@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Oct 21, 2019
- *      Author: GO
+ *      Author: Samuel George
  */
 #include "utils.h"
 #include "register.h"
